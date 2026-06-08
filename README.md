@@ -5,3 +5,4 @@ Hypothesis: the local food industry is being replaced with avocado toast places 
 
 To Do:
 1 Look into finding maps data to see how many tascas have closed down and how many airbnbs hav opened over the years
+Add Andre's list of tascos to the data
