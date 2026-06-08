@@ -1,0 +1,101 @@
+name,address,neighbourhood,lat,lng,rating,price_level,reviews_count,status,search_keyword
+Restaurante O Tasco Do Vigário,"R. do Vigário 18, 1100-405 Lisboa, Portugal",Santa Maria Maior,38.7127703,-9.126521900000002,4.8,1,5,OPERATIONAL,tasco
+Central da Avenida,"R. Rodrigues de Faria 103, 1300-501 Lisboa, Portugal",Alcântara,38.7026881,-9.1785933,4,2,5,OPERATIONAL,tasco
+Tasco Carcavelos,"Av. Mal. Craveiro Lopes, 2775-697 Carcavelos, Portugal",União das freguesias de Carcavelos e Parede,38.6916222,-9.3403134,4.6,N/A,5,OPERATIONAL,tasco
+Tasco Force,"R. Acácio de Paiva 5D, 1700-005 Lisboa, Portugal",Alvalade,38.7543394,-9.1426087,4.4,2,5,OPERATIONAL,tasco
+Tasco do Strauss,"Largo Aliados 2, 2710-507 Sintra, Portugal","União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",38.7925401,-9.3807265,4.9,2,5,OPERATIONAL,tasco
+O Tasco,"Edif. Verde Mar, R. do Verde Mar lote 3 Loja A-B, 2645-640 Alcabideche, Portugal",Alcabideche,38.7324604,-9.4137606,4.5,2,5,OPERATIONAL,tasco
+O Tasco do Baixinho,"R. Dep. Pedro Botelho Neves 10 14, 2695-687 São João da Talha, Portugal","União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela",38.8237845,-9.096728599999999,5,N/A,2,OPERATIONAL,tasco
+O Tasco,"R. 5 de Outubro 41A, 2790-049 Carnaxide, Portugal",União das freguesias de Carnaxide e Queijas,38.7248167,-9.249495099999999,4.3,2,5,OPERATIONAL,tasco
+Re'Tasco,"Estrada do Calhariz de Benfica 13, 1500-121 Lisboa, Portugal",Benfica,38.7452722,-9.1920747,4.7,2,5,OPERATIONAL,tasco
+O Tasco,"2685 Sacavém, Portugal",União das freguesias de Sacavém e Prior Velho,38.7899773,-9.1035083,5,N/A,1,OPERATIONAL,tasco
+O Tasco - Não Venhas Tarde,"Rua do Beato 6, 1950-010 Lisboa, Portugal",Beato,38.7355662,-9.1044334,4.7,1,5,OPERATIONAL,tasco
+Colarense,"R. dos Marinheiros 6, 2705-529 Colares, Portugal",Colares,38.7983672,-9.4476123,4.7,N/A,5,OPERATIONAL,tasco
+O Tacho,"Avenida Ressano Garcia 5A, 1070-234 Lisboa, Portugal",Avenidas Novas,38.7345045,-9.1551557,4.3,2,5,OPERATIONAL,tasco
+Tasco da Ilda By Cook2WINE,"R. Jaime da Mota 34, 2050-333 Azambuja, Portugal",Azambuja,39.0683119,-8.8688133,4.9,2,5,OPERATIONAL,tasco
+O Tasco dos Rosa,"Av. Dom Afonso Henriques 83 Lj Esq, 2820-567, Portugal",União das freguesias de Charneca de Caparica e Sobreda,38.5839257,-9.1700884,N/A,N/A,0,OPERATIONAL,tasco
+O Tasco D'Aldeia,"Largo do Comércio 2070, 2070 Pontével, Portugal",Pontével,39.130036,-8.8222574,4.5,N/A,5,OPERATIONAL,tasco
+Tasco da Ester,"R. Cap. Ten. Oliveira e Carmo numero 28, Santo André, 2830-148 Barreiro, Portugal","União das freguesias de Alto do Seixalinho, Santo André e Verderena",38.6461596,-9.0610045,4.5,N/A,5,OPERATIONAL,tasco
+Restaurante Tasco Os Azeites,"R. Cidade da Praia 365 loja A,B, 1800 Lisboa, Portugal",Olivais,38.7614007,-9.1175249,4.3,2,5,OPERATIONAL,tasco
+Taverna Da Tascoa,"R. Tascoa 48, Massamá, 2745-851 Queluz, Portugal",Massamá,38.756445,-9.2729494,4.7,1,5,OPERATIONAL,tasco
+Ofício,"R. Nova da Trindade 11k, 1200-301 Lisboa, Portugal",Santa Maria Maior,38.7124551,-9.142651299999999,4.4,2,5,OPERATIONAL,tasco
+Tasca - Boutique das Tapas,"R. João de Deus 50, 2710-579 Sintra, Portugal","União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",38.7994585,-9.3843307,4.7,2,5,OPERATIONAL,tasca
+L-Tasca,"R. do Alecrim 5, 1200-019 Lisboa, Portugal",São Paulo,38.7069513,-9.1435909,4.7,N/A,5,OPERATIONAL,tasca
+Vida de Tasca,"R. Moniz Barreto 7, 1700-306 Lisboa, Portugal",Alvalade,38.7478062,-9.137484299999999,4.8,N/A,5,OPERATIONAL,tasca
+Tasca do Bairro,"R. de São Lázaro 217, 1150-331 Lisboa, Portugal",Arroios,38.7194017,-9.1375767,4.8,N/A,5,OPERATIONAL,tasca
+Culto da Tasca,"R. Veiga da Cunha 6, 2710-627 Sintra, Portugal","União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",38.8039515,-9.3811996,4.4,2,5,OPERATIONAL,tasca
+A Tasca do B.Alto,"R. da Barroca 75, 1200-048 Lisboa, Portugal",Misericórdia,38.71197069999999,-9.1446089,4.5,N/A,5,OPERATIONAL,tasca
+Tasca de Noticias,"R. do Diário de Notícias 49, 1200-334 Lisboa, Portugal",Misericórdia,38.71190989999999,-9.1441625,4.5,N/A,5,OPERATIONAL,tasca
+Tasca D'Avenida,"Av. Dom Afonso Henriques 10C, 2800-009 Almada, Portugal","União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",38.6816913,-9.153761399999999,4.6,2,5,OPERATIONAL,tasca
+Tasca Café,"R. Afonso de Albuquerque, 2685-014 Sacavém, Portugal",União das freguesias de Sacavém e Prior Velho,38.7906963,-9.1125362,5,N/A,4,OPERATIONAL,tasca
+Tasca d'Ana,"R. Serpa Pinto 5, 2710-512 Sintra, Portugal","União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",38.7909792,-9.3810004,4.6,2,5,OPERATIONAL,tasca
+Tasca do Fonseca,"R. Direita de Palma 11, 1600-081 Lisboa, Portugal",São Domingos de Benfica,38.7480153,-9.1675161,4.5,1,5,OPERATIONAL,tasca
+TASCA DOS POIAIS,"Rua da Cruz dos Poiais 65, 1200-135 Lisboa, Portugal",Misericórdia,38.711914,-9.1515232,4.8,1,5,OPERATIONAL,tasca
+A Tasca do Zé Russo,"R. do Vale Formoso de Cima 264, 1950-274 Lisboa, Portugal",Marvila,38.75305609999999,-9.1052792,4.2,2,5,OPERATIONAL,tasca
+Tasca Do Marinheiro,"R. da Conceição da Glória 38, 1250-081 Lisboa, Portugal",Santo António,38.717267,-9.14531,4.6,1,5,OPERATIONAL,tasca
+A Tasca Do Tretas,"R. Carlos Mardel 115A, 1900-302 Lisboa, Portugal",Areeiro,38.7393818,-9.132880799999999,4.6,1,5,OPERATIONAL,tasca
+Tasca do Xico,"R. Arco do Teixeira 6, 2710-533 Sintra, Portugal","União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",38.7967565,-9.3904483,4.3,N/A,5,OPERATIONAL,tasca
+Tasca Fina by Kajó,"R. do Algarve Número 79, 2950-759 Q.ta do Anjo, Portugal",Palmela,38.597492,-8.9390567,4.8,2,5,OPERATIONAL,tasca
+A Muralha Tasca Típica Lisboa,"R. do Jardim do Tabaco 112, 1100-405 Lisboa, Portugal",Santa Maria Maior,38.7115883,-9.1272887,4.5,2,5,OPERATIONAL,tasca
+Tasca da Esquina,"R. Domingos Sequeira 41C, 1350-119 Lisboa, Portugal",Estrela,38.7153691,-9.163704700000002,4.4,3,5,OPERATIONAL,tasca
+A Tasca,"R. Fernando Pessoa 1, 2725-079 Algueirão-Mem Martins, Portugal",Algueirão-Mem Martins,38.79304380000001,-9.347984000000002,4.4,1,5,OPERATIONAL,tasca
+A Taberna,"R. Cândido dos Reis 45, 2780-230 Oeiras, Portugal","União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",38.6925819,-9.3120674,3.9,N/A,5,OPERATIONAL,taberna
+Taberna da Rua das Flores,"Rua das Flores 103 109, 1200-194 Lisboa, Portugal",Misericórdia,38.7100544,-9.1436093,4.3,2,5,OPERATIONAL,taberna
+Taberna do Bairro alto,"Tv. da Boa Hora 27, 1200-063 Lisboa, Portugal",Misericórdia,38.71380360000001,-9.1447981,4.6,2,5,OPERATIONAL,taberna
+Taberna Moderna,"R. dos Bacalhoeiros 18A, 1100-070 Lisboa, Portugal",Santa Maria Maior,38.709134,-9.13334,4.4,2,5,OPERATIONAL,taberna
+"Taberna Londrina Lisboa, Campo Grande","Campo Grande 35B, 1700-087 Lisboa, Portugal",Alvalade,38.7499961,-9.1504602,4.4,2,5,OPERATIONAL,taberna
+"Taberna Londrina Lisboa, Bairro Alto","R. do Norte 24, 1200-108 Lisboa, Portugal",Misericórdia,38.7111202,-9.14369,4.4,2,5,OPERATIONAL,taberna
+Taberna da Esquina,"Av. da República 47 E F, 1050-188 Lisboa, Portugal",Avenidas Novas,38.7384941,-9.146401299999999,4.2,2,5,OPERATIONAL,taberna
+"Taberna Londrina Lisboa, Av. Novas","Av. Visc. de Valmor 64A, 1050-242 Lisboa, Portugal",Avenidas Novas,38.7377542,-9.150084699999999,4.6,N/A,5,OPERATIONAL,taberna
+Taberna Do Castelo,"Lgo de São Martinho, 1100-537 Lisboa, Portugal",Santa Maria Maior,38.7106893,-9.1311615,4.7,2,5,OPERATIONAL,taberna
+A Taberna,"Av. dos Bombeiros Voluntários 17 loja, 1675-108 Pontinha, Portugal",União das freguesias de Pontinha e Famões,38.7628276,-9.2002516,4.6,N/A,5,OPERATIONAL,taberna
+"Taberna Londrina Lisboa, Campo de Ourique","R. Ferreira Borges 47, 1350-126 Lisboa, Portugal",Campo de Ourique,38.7164295,-9.164178699999999,4.6,N/A,5,OPERATIONAL,taberna
+Taberna Minhota,"R. de São Pedro de Alcântara 13, 1200-212 Lisboa, Portugal",Misericórdia,38.7136059,-9.143813399999999,4.5,1,5,OPERATIONAL,taberna
+Taberna Londrina Oeiras,"R. Dr. José da Cunha 33A, 2780-187 Oeiras, Portugal","União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",38.7032175,-9.3060722,4.7,N/A,5,OPERATIONAL,taberna
+Taberna Antiga,"R. dos Balsares de Baixo 21a, 1750-037 Lisboa, Portugal",Santa Clara,38.7930111,-9.152418299999999,4.3,1,5,OPERATIONAL,taberna
+Zé de Chelas / A Taberna de Chelas,"Largo Álvaro de Andrade lt22 loja sul, 1950-304 Lisboa, Portugal",Marvila,38.7473291,-9.1081495,4.3,2,5,OPERATIONAL,taberna
+Taberna - Bairro do Avillez,"R. Nova da Trindade 18, 1200-303 Lisboa, Portugal",Santa Maria Maior,38.71226679999999,-9.1424025,4.9,N/A,5,OPERATIONAL,taberna
+Taberna.Come,"R. 3 da Matinha A, 1950-323 Lisboa, Portugal",Marvila,38.7479502,-9.097189,3.9,N/A,5,OPERATIONAL,taberna
+Taberna Carolina,"R. Anchieta 16, 1200-087 Lisboa, Portugal",Santa Maria Maior,38.7102814,-9.1412256,4.8,N/A,5,OPERATIONAL,taberna
+Taberna da Má Fama,"R. da Atalaia 34, 1200-086 Lisboa, Portugal",Misericórdia,38.7113483,-9.1448235,4.6,N/A,5,OPERATIONAL,taberna
+Taberna Dos Novos Tempos,"R. de Buenos Aires 22C, 1200-798 Lisboa, Portugal",Estrela,38.7105093,-9.161982799999999,4.7,N/A,5,OPERATIONAL,taberna
+Mania de Petiscos,"R. Santa Bárbara 81 A, 1150-288 Lisboa, Portugal",Arroios,38.726098,-9.136881899999999,4.9,N/A,5,OPERATIONAL,petiscos
+da Prata 52,"Rua da Prata 52, 1100-150 Lisboa, Portugal",Santa Maria Maior,38.7096076,-9.1362697,4.7,2,5,OPERATIONAL,petiscos
+Petiscos e Restaurante Solar dos Bicos,"R. dos Bacalhoeiros 8A, 1100-070 Lisboa, Portugal",Santa Maria Maior,38.709012,-9.132482999999999,4.6,2,5,OPERATIONAL,petiscos
+Petiscos da Esquina,"R. Gonçalves Zarco 21E, 1400-033 Lisboa, Portugal",Belém,38.7026293,-9.2061818,4.2,N/A,5,OPERATIONAL,petiscos
+Dom Petisco Restaurante & Petisqueira,"R. Américo Amarelhe 4A, 2815-881 Sobreda, Portugal",União das freguesias de Charneca de Caparica e Sobreda,38.6445132,-9.1864756,4.2,2,5,OPERATIONAL,petiscos
+Antonia Petiscos Portuguese,"R. do Norte 47, 1200-279 Lisboa, Portugal",Misericórdia,38.7114213,-9.1437961,4.4,2,5,OPERATIONAL,petiscos
+Loja das Conservas Petiscos,"Tv. do Cotovelo 6, 1200-161 Lisboa, Portugal",Misericórdia,38.7074379,-9.1410778,4.8,N/A,5,OPERATIONAL,petiscos
+Baixamar - Mariscos e Petiscos,"R. dos Bacalhoeiros 28 C, 1100-071 Lisboa, Portugal",Santa Maria Maior,38.7092537,-9.134232899999999,4.6,2,5,OPERATIONAL,petiscos
+Solar dos Petiscos,"Av. da República 1165, 2775-247 Parede, Portugal",União das freguesias de Carcavelos e Parede,38.6896782,-9.3538189,4.5,N/A,5,OPERATIONAL,petiscos
+Adega Leo do Petisco,"R. da Cordoaria 33, 2900-333 Setúbal, Portugal","União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",38.5199836,-8.902564,4.3,2,5,OPERATIONAL,petiscos
+Snack-bar e Petiscos da Penha,"Rua da Penha de França 244 A, 1170-311 Lisboa, Portugal",Penha de França,38.7287789,-9.130973400000002,4.5,1,5,OPERATIONAL,petiscos
+Camilo - Casa de Petiscos,"R. António dos Reis 110, 2710-299 Sintra, Portugal","União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",38.7670619,-9.3826255,4.3,2,5,OPERATIONAL,petiscos
+Bro’s dos Petiscos,"R. Dom João de Mascarenhas 12 - A, Damaia, 2720-173 Amadora, Portugal",Damaia,38.74835470000001,-9.212712699999999,4.9,N/A,5,OPERATIONAL,petiscos
+Porteira dos Petiscos,"R. Barão de Sabrosa 268A, 1900-096 Lisboa, Portugal",Areeiro,38.7394852,-9.1284879,4.3,N/A,5,OPERATIONAL,petiscos
+Cantinho dos Petiscos,"Av. Luísa Todi 376, 2900-463 Setúbal, Portugal","União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",38.5235377,-8.8960821,3.5,2,5,OPERATIONAL,petiscos
+A Tasca da Andreia,"R. Dom Pedro Fernandes Sardinha 21, 2910-125 Setúbal, Portugal",Setúbal (São Sebastião),38.5230626,-8.8776535,4.9,N/A,5,OPERATIONAL,petiscos
+Petiscos a carlinha,"R. Padre Amaro Teixeira de Azevedo 60, 2710-633 Sintra, Portugal","União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",38.8164507,-9.3953241,4.7,N/A,3,OPERATIONAL,petiscos
+Capelinha do Meco,"R. Praia Moinho de Baixo 44, 2970, Portugal",Sesimbra (Castelo),38.474574,-9.171013199999999,4.5,N/A,5,OPERATIONAL,petiscos
+Lulu & Titi beer e petiscos,"Largo São Sebastião 6, 2640-817 Mafra, Portugal",Mafra,38.9611167,-9.3554917,4.7,N/A,5,OPERATIONAL,petiscos
+Petiscos Amandius,"R. Arco do Cego 77, 1000-072 Lisboa, Portugal",Avenidas Novas,38.7406962,-9.1430838,4.1,N/A,5,OPERATIONAL,petiscos
+La Villa,"Campo dos Mártires da Pátria 40 41, 1150-317 Lisboa, Portugal",Arroios,38.72141329999999,-9.140257199999999,4.6,2,5,OPERATIONAL,restaurante
+Selllva,"R. Mouzinho da Silveira 32, 1250-302 Lisboa, Portugal",Santo António,38.723154,-9.1505616,4.4,2,5,OPERATIONAL,restaurante
+Tasca da Memória,"Tv. da Memória 62, 1300-403 Lisboa, Portugal",Ajuda,38.7021766,-9.2021973,4.5,N/A,5,OPERATIONAL,restaurante
+Restaurante da Sé,"Cruzes da Sé 31A, 1100-192 Lisboa, Portugal",Santa Maria Maior,38.7095259,-9.1330113,4.5,2,5,OPERATIONAL,restaurante
+Restaurante Porta 165,"R. Batalha do Viso n.165, 2900-270 Setúbal, Portugal","União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",38.5259974,-8.9084307,4.6,2,5,OPERATIONAL,restaurante
+Restaurante Casa D'Aldeia,"Estrada Nacional 247 48A 202 Portugal, 2640-202 Encarnação, Portugal",Encarnação,39.0472473,-9.399144399999999,4.6,N/A,5,OPERATIONAL,restaurante
+Restaurante Paris,"Praça da República 14, 2640-495 Mafra, Portugal",Mafra,38.9372363,-9.3288701,4.2,1,5,OPERATIONAL,restaurante
+Paco Bigotes | Restaurante Mexicano em Lisboa,"R. da Misericórdia 139, 1200-365 Lisboa, Portugal",Misericórdia,38.71277329999999,-9.143348099999999,4.7,N/A,5,OPERATIONAL,restaurante
+Restaurante O Telheiro,"Estr. Q.ta de Matos 9, 2630-260 Arruda dos Vinhos, Portugal",Arruda dos Vinhos,38.9991947,-9.0821825,4.2,1,5,OPERATIONAL,restaurante
+Está No Papo,"R. de São Miguel 25, 1100-542 Lisboa, Portugal",Santa Maria Maior,38.7109465,-9.1293013,4.4,1,5,OPERATIONAL,restaurante
+BaniGala RESTAURANTE Lisbon,"R. do Benformoso 230, 1100-084 Lisboa, Portugal",Santa Maria Maior,38.7194493,-9.1349246,4.6,1,5,OPERATIONAL,restaurante
+Ks Restaurante e Café,"R. Salvador Allende 27c, 2685-114 Sacavém, Portugal",União das freguesias de Sacavém e Prior Velho,38.7940633,-9.1106505,4.2,N/A,5,OPERATIONAL,restaurante
+Restaurante Solar do Kadete,"Cais do Sodré 2 e 4, 1200-130 Lisboa, Portugal",Misericórdia,38.7067521,-9.1421609,4,2,5,OPERATIONAL,restaurante
+Mensagem - Restaurante e Bar Panorâmico,"R. da Oliveira ao Carmo 8, 1200-309 Lisboa, Portugal",Santa Maria Maior,38.7125554,-9.141451199999999,4.6,3,5,OPERATIONAL,restaurante
+Restaurante Furo,"R. dos Bombeiros Voluntários 10 A, 2560-320 Torres Vedras, Portugal","Santa Maria, São Pedro e Matacães",39.0844738,-9.2552326,4.4,1,5,OPERATIONAL,restaurante
+Restaurante Pérola Dourada,"N379, 2970-002 Santana, Portugal",Sesimbra (Castelo),38.4667502,-9.095067799999999,4.3,1,5,OPERATIONAL,restaurante
+Diyalo,"Tv. da Palma, 1150-052 Lisboa, Portugal",Santa Maria Maior,38.7157633,-9.1372973,4.5,N/A,5,OPERATIONAL,restaurante
+Augusto Lisboa,"R. de Santa M.nha 26, 1100-491 Lisboa, Portugal",São Vicente,38.7144063,-9.1302323,4.8,2,5,OPERATIONAL,restaurante
+RD's,"R. Natália Correia 6B Piso 0 - Loja 6 B, 1170-270 Lisboa, Portugal",São Vicente,38.7205783,-9.1293892,4.8,1,5,OPERATIONAL,restaurante
+Restaurante Aagan,"R. da Palma 39A, 1100-390 Lisboa, Portugal",Santa Maria Maior,38.7156683,-9.1370699,4.6,2,5,OPERATIONAL,restaurante
