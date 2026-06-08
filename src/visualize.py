@@ -65,3 +65,20 @@ plt.xlabel('Airbnb Listings (Tourist Density Proxy)')
 plt.ylabel('Average price level of tascas')
 plt.title('Hypothesis: Does Tourism Increase Local Prices?')
 plt.savefig("results/scatter_avg_price.png")
+
+
+plt.figure(figsize=(10, 8))
+sns.scatterplot(data=df, x='avg_Nreviews_airbnb', y='tascas_count', hue='neighbourhood', s=100, alpha=0.7)
+
+# Add regression line
+sns.regplot(data=df, x='avg_Nreviews_airbnb', y='tascas_count', scatter=False, color='red', label='Trend')
+
+# Annotate stats
+r, p = stats.pearsonr(df['avg_Nreviews_airbnb'], df['tascas_count'])
+plt.text(0.75, 0.95, f'r = {r:.2f}\np = {p:.3e}', transform=plt.gca().transAxes, 
+         bbox=dict(facecolor='white', alpha=0.8))
+
+plt.xlabel('Number of airbnb reviews (which area is more touristic)')
+plt.ylabel('Tascas count')
+plt.title('Hypothesis: Does Tourism Increase Local Prices?')
+plt.savefig("results/scatter_number_reviews.png")

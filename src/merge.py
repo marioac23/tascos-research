@@ -6,9 +6,18 @@ tasca = pd.read_csv("data/cleaned/cleaned_tascas.csv")
 # For now, let's assume you can map lat/lng to neighborhood manually or via a simple lookup
 
 # Example: Count Airbnbs per neighborhood
-airbnb_counts = airbnb['neighbourhood'].value_counts().reset_index()
-airbnb_counts.columns = ['neighbourhood', 'airbnb_count']
+#airbnb_counts = airbnb['neighbourhood'].value_counts().reset_index()
+#airbnb_counts.columns = ['neighbourhood', 'airbnb_count']
+airbnb_stats = airbnb.groupby('neighbourhood').agg({
+    'name': 'count',            # Count of airbnb
+    'number_of_reviews': 'mean'     # Average price level
+}).reset_index()
 
+# Rename columns for clarity
+airbnb_stats.rename(columns={
+    'name': 'airbnb_count',
+    'number_of_reviews': 'avg_Nreviews_airbnb'
+}, inplace=True)
 
 tasca['price_level'] = pd.to_numeric(tasca['price_level'], errors='coerce')
 # Group by neighborhood and calculate statistics
@@ -27,7 +36,7 @@ tasca_price_stats.rename(columns={
     'reviews_count': 'avg_reviews_count'
 }, inplace=True)
 
-merged = airbnb_counts.merge(tasca_price_stats, on='neighbourhood')
+merged = airbnb_stats.merge(tasca_price_stats, on='neighbourhood')
 
 print(merged.head())
 
