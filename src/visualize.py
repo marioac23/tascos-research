@@ -3,9 +3,33 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy import stats
 import numpy as np
+import argparse
+
+parser = argparse.ArgumentParser(description="Arguments for running code",
+                                 formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+
+parser.add_argument("-i", "--input", default=None, type = str, help="input list of restaurants/tascas")
+parser.add_argument("-o", "--output", default=None, type = str, help="output file")
+
+
+args = vars(parser.parse_args())
+
+
+input    = args["input"]
+output      = args["output"]
 
 # Load your merged data
-df = pd.read_csv("data/cleaned/merged_tasca_airbnb.csv")
+df = pd.read_csv(input)
+df = df[df['airbnb_count']<1000]
+
+def plot(df, param, labels, output):
+    plt.figure()
+    plt.scatter(df[param[0]], df[param[1]])
+    plt.xaxis(labels[0])
+    plt.yaxis(labels[1])
+    plt.savefig(output)
+
+
 
 # Create a scatter plot
 plt.figure(figsize=(10, 6))
@@ -19,7 +43,7 @@ scatter = sns.scatterplot(
 )
 
 # Add correlation line
-z = np.polyfit(df['airbnb_count'], df['tascas_count'], 1)
+z = np.polyfit(df['airbnb_count'], df['tascas_count'], 3)
 p = np.poly1d(z)
 plt.plot(df['airbnb_count'], p(df['airbnb_count']), "r--", label=f"Trend Line (r={z[0]:.2f})")
 
@@ -82,3 +106,5 @@ plt.xlabel('Number of airbnb reviews (which area is more touristic)')
 plt.ylabel('Tascas count')
 plt.title('Hypothesis: Does Tourism Increase Local Prices?')
 plt.savefig("results/scatter_number_reviews.png")
+
+
